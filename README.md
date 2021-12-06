@@ -6,10 +6,10 @@
 ### Instructions to run the project:
 1) Download and extract the file
 2) Copy the IndividualAssignment202 folder to your IDE(Intellij) workspace
-3) Import the project in IDE
+3) Open the project in Intellij which is in the workspace.
 4) Add all the input files to the folder/workspace where this project exists
-5) Please setup jdk and load the maven build script (option to lead appears at the bottom on intellij IDE which needs to be loaded)
-6)  Open Inventory.java(src/main/java/com/inventory/Inventory.java) which is the starting point of this application (contains the main()) and click on run Inventory.main()
+5) Once project is opened, please setup jdk and load the maven build script (option to lead appears at the bottom on intellij IDE which needs to be loaded)
+6) Open Inventory.java(src/main/java/com/inventory/Inventory.java) which is the starting point of this application (contains the main()) and click on run Inventory.main()
 7) Enter the filename in the console when prompted
 8) Upon successful execution of the project, either output.txt or error.txt will get generated based on the processing of the inputs.
 9) Output.txt/error.txt will get generated in the same project folder.
