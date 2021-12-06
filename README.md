@@ -37,7 +37,8 @@ In this assignment, this pattern is used to validate the credit card. An instanc
 
   
  **Input2 - Sheet1.csv**
-  ![image](https://user-images.githubusercontent.com/77411174/144795020-783e46dc-2f29-4806-a4f4-494e3609eb0a.png)
+  ![image](https://user-images.githubusercontent.com/77411174/144807966-d7958551-23a4-4030-b828-95d8a6714e62.png)
+
 
   
   **Input3 - Sheet1.csv**
