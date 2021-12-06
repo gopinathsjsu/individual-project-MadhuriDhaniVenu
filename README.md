@@ -4,15 +4,14 @@
 **SJSU ID** : 015270450
 
 ### Instructions to run the project:
-1) Switch to the master branch
-2) Download and extract the file
-3) Copy the IndividualAssignment202 folder to your IDE(Intellij) workspace
-4) Import the project in IDE
-5) Add all the input files to the folder/workspace where this project exists
-6) Open Inventory.java which is the starting point of this application ( contains the main())
-7) Enter the filename in the console when prompted
-8) Upon successful execution of the project, either output.txt or error.txt will get generated based on the processing of the inputs.
-9) Output.txt/error.txt will get generated in the same project folder.
+1) Download and extract the file
+2) Copy the IndividualAssignment202 folder to your IDE(Intellij) workspace
+3) Import the project in IDE
+4) Add all the input files to the folder/workspace where this project exists
+5) Open Inventory.java which is the starting point of this application ( contains the main())
+6) Enter the filename in the console when prompted
+7) Upon successful execution of the project, either output.txt or error.txt will get generated based on the processing of the inputs.
+8) Output.txt/error.txt will get generated in the same project folder.
 
 ## Design Patterns:
 ### 1) Strategy Pattern:
